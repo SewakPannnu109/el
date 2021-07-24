@@ -1,37 +1,62 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/SewakPannnu109/el/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>kk</title>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="m.css">
+</head>
+<body>
+<div class="container-fluid">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+<nav class="navbar   bg-dark navbar-dark">
+  <a class="navbar-brand" href="#"><h1 >FOOD,LLC</h1></a>
+  <button class="navbar-toggler d-md-none visible-xs" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+    <span class="navbar-toggler-icon navbar-dark"></span>
+  </button>
+</nav>
+    <div class="collapse navbar-collapse" id="collapsibleNavbar">
+    
 
-# Header 1
-## Header 2
-### Header 3
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link" href="#">Chicken</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Beef</a>
+        </li>
+        <li class="nav-item" id="kl">
+          <a class="nav-link" href="#">Sushi</a>
+        </li>
+      </ul>
+    </div>
+    
+  
+  
 
-- Bulleted
-- List
+</div>
+<br>
+<br>
+  <p class=" centre  text-centre">
+OUR  MENU
+  </p>
+  <br>
+  <br>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+<div class="container-fluid continer">
+  <div class="PP">CHICKEN</div>
+  <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quidem tempore nobis id nam necessitatibus earum dolorum error odit hic, nostrum et pariatur? Saepe sint modi nesciunt consequatur corporis blanditiis laborum Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab numquam mollitia atque est amet dolores sunt quas provident ipsam exercitationem tempora fugiat distinctio, molestias facilis, eveniet quia vero non error. Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque, laudantium omnis temporibus asperiores natus debitis nisi perspiciatis doloribus harum, delectus iusto totam nam commodi beatae, ex quibusdam. Nam, explicabo voluptatum? Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi magnam laudantium amet voluptas facere, nulla soluta architecto sint pariatur officia voluptatem modi earum nam delectus. Odit facilis quaerat obcaecati soluta? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex illo corrupti perspiciatis eaque, excepturi dolorum eius reprehenderit dignissimos laudantium laboriosam? Repellendus amet quibusdam, velit ipsum itaque nulla porro sunt quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, et vero? Modi, blanditiis dignissimos quisquam officia illum ratione tempora ullam mollitia vitae ab laboriosam odit hic, perferendis eaque, neque ea! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quaerat suscipit consequatur sapiente voluptatem voluptate at quis ab labore quam harum odit nisi autem eum molestiae, neque cumque, quasi obcaecati magni. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati exercitationem omnis eum similique molestiae! Error, facilis deserunt. At, pariatur qui harum quia alias aliquid consequuntur illum fugit reiciendis recusandae ipsam? Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit quasi tempore quod! Iusto, cumque exercitationem! Sed similique natus quasi nulla reex consectetur, ratione fugiat tempora velit soluta. Voluptates optio recusandae ut!</p>
+ </div>
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SewakPannnu109/el/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
